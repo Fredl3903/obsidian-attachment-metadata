@@ -1,0 +1,17 @@
+export const extensions = {
+    "py": "code",
+    "js": "code",
+    "ts": "code",
+    "html": "code",
+    "css": "code",
+    "cpp": "code",
+    "jpg": "image",
+    "jpeg": "image",
+    "png": "image",
+    "gif": "image",
+    "bmp": "image",
+    "tiff": "image",
+    "svg": "image",
+    "mp4": "video",
+    "mov": "video",
+};

@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "creation-trigger",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Automatically creates and manages metadata notes for attachments.",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
